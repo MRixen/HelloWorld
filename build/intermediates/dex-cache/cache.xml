@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<pre-dex-items>
+
+    <item
+        dex="/home/mr/ws_android/src/HelloWorld/app/build/intermediates/pre-dexed/debug/support-v4-19.1.0-ab3d7d980b6367dacaa24d7abb496f7de9c13ed6.jar"
+        jar="/home/mr/androidStudio/android-studio/sdk/extras/android/m2repository/com/android/support/support-v4/19.1.0/support-v4-19.1.0.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="85f201b380937e61a9dce6ca90ccf6872abbfb67"/>
+    <item
+        dex="/home/mr/ws_android/src/HelloWorld/app/build/intermediates/pre-dexed/debug/classes-9dc7815520f695d1c4b4c5a77684d5c2c6021b05.jar"
+        jar="/home/mr/ws_android/src/HelloWorld/build/intermediates/exploded-aar/com.android.support/appcompat-v7/19.1.0/classes.jar"
+        jumboMode="false"
+        revision="19.1.0"
+        sha1="3499ceba05ca1f6037c6a2fad73df8f636224a28"/>
+
+</pre-dex-items>
